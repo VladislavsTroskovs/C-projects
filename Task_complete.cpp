@@ -1,4 +1,5 @@
 // http://cppstudio.com/cat/285/  (Level: Easy)
+// test git repository
 
 #include <iostream>
 #include<cmath>
